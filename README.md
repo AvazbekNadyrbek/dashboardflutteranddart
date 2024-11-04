@@ -1,14 +1,29 @@
-# Flutter Dashboard Template (Dribbble)
+# Dashboard Template Dribbble
 
-Dashboard Template UI
+This project is a Flutter template based on a Dribbble design.  It provides a starting point for building a dashboard-style application.
 
-![dashboard](https://github.com/HanySameh/Flutter-Dashboard-Template/assets/78942298/1fcc64ee-39b4-4c43-aa41-127f8e219450)
+## Features
 
-## Video
+* Responsive design
+* Uses Flutter's Material Design
+* Includes sample widgets and layouts
 
-https://github.com/HanySameh/Flutter-Dashboard-Template/assets/78942298/04f81ee4-2c68-419d-a432-97660abbab99
+## Getting Started
 
-### Template 
+This project uses Flutter.  To get started, ensure you have Flutter installed and configured on your system.
 
-[Dribbble](https://dribbble.com/shots/19952292-Ofinans-Digital-Finance-Dashboard-UI-Concept)
+1. Clone the repository: `git clone [repository_url]`
+2. Navigate to the project directory: `cd dashboard_template_dribbble`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
+## Dependencies
+
+* `flutter`: The Flutter SDK
+* `cupertino_icons`: Cupertino icons
+* `fl_chart`: Charting library (optional, may need to be removedgit if not used)
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
